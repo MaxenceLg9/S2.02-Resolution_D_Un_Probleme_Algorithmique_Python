@@ -103,4 +103,3 @@ def rep_graph_seuil():
     plt.ylabel("Proportion de flèches (seuil)")
     plt.legend()
     plt.show()
-
